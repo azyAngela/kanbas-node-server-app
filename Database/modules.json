@@ -1,0 +1,182 @@
+[
+    {
+      "_id": "M101",
+      "name": "Introduction to Rocket Propulsion",
+      "description": "Basic principles of rocket propulsion and rocket engines.",
+      "course": "RS101",
+      "lessons": [
+        {
+        "name": "Introduction to Rocket Propulsion",
+        "description": "Basic principles of rocket propulsion and rocket engines."
+        },
+        {
+        "name": "Rocket Propulsion History",
+        "description": "History of rocket propulsion and rocket engine development."
+        },
+        {
+        "name": "Rocket Propulsion Applications",
+        "description": "Applications of rocket propulsion and rocket engines."
+        }
+      ]
+    },
+    {
+      "_id": "M102",
+      "name": "Fuel and Combustion",
+      "description": "Understanding rocket fuel, combustion processes, and efficiency.",
+      "course": "RS101",
+      "lessons":[
+        {
+        "name": "Fuel and Combustion",
+        "description": "Understanding rocket fuel, combustion processes, and efficiency."
+        },
+        {
+        "name": "Liquid Propellant Rocket Engines",
+        "description": "Understanding liquid propellant rocket engines."
+        },
+        {
+        "name": "Solid Propellant Rocket Engines",
+        "description": "Understanding solid propellant rocket engines."
+        }
+      ]
+    },
+    {
+      "_id": "M103",
+      "name": "Nozzle Design",
+      "description": "Principles of rocket nozzle design and performance optimization.",
+      "course": "RS101",
+      "lessons":[
+        {
+        "name": "Nozzle Design",
+        "description": "Principles of rocket nozzle design and performance optimization."
+        },
+        {
+        "name": "Nozzle Design Applications",
+        "description": "Applications of rocket nozzle design and performance optimization."
+        },
+        {
+        "name": "Nozzle Design History",
+        "description": "History of rocket nozzle design and performance optimization."
+        }
+      ]
+    },
+    {
+      "_id": "M201",
+      "name": "Fundamentals of Aerodynamics",
+      "description": "Basic aerodynamic concepts and fluid dynamics principles.",
+      "course": "RS102",
+      "lessons":[
+        {
+        "name": "Fundamentals of Aerodynamics",
+        "description": "Basic aerodynamic concepts and fluid dynamics principles."
+        },
+        {
+        "name": "Aerodynamic Forces",
+        "description": "Understanding aerodynamic forces and their effects."
+        },
+        {
+        "name": "Aerodynamic Forces Applications",
+        "description": "Applications of aerodynamic forces and their effects."
+        }
+      ]
+    },
+    {
+      "_id": "M202",
+      "name": "Subsonic and Supersonic Flow",
+      "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+      "course": "RS102",
+      "lessons":[
+        {
+        "name": "Subsonic and Supersonic Flow",
+        "description": "Understanding subsonic and supersonic aerodynamic behaviors."
+        },
+        {
+        "name": "Subsonic and Supersonic Flow Applications",
+        "description": "Applications of subsonic and supersonic aerodynamic behaviors."
+        },
+        {
+        "name": "Subsonic and Supersonic Flow History",
+        "description": "History of subsonic and supersonic aerodynamic behaviors."
+        }
+      ]
+    },
+    {
+      "_id": "M203",
+      "name": "Aerodynamic Heating",
+      "description": "Study of aerodynamic heating and thermal protection systems.",
+      "course": "RS102",
+      "lessons":[
+        {
+        "name": "Aerodynamic Heating",
+        "description": "Study of aerodynamic heating and thermal protection systems."
+        },
+        {
+        "name": "Aerodynamic Heating Applications",
+        "description": "Applications of aerodynamic heating and thermal protection systems."
+        },
+        {
+        "name": "Aerodynamic Heating History",
+        "description": "History of aerodynamic heating and thermal protection systems."
+        }
+      ]
+    },
+    {
+      "_id": "M301",
+      "name": "Spacecraft Structural Design",
+      "description": "Fundamentals of designing spacecraft structures and materials selection.",
+      "course": "RS103",
+      "lessons":[
+        {
+        "name": "Spacecraft Structural Design",
+        "description": "Fundamentals of designing spacecraft structures and materials selection."
+        },
+        {
+        "name": "Spacecraft Structural Design Applications",
+        "description": "Applications of spacecraft structures and materials selection."
+        },
+        {
+        "name": "Spacecraft Structural Design History",
+        "description": "History of spacecraft structures and materials selection."
+        }
+      ]
+    },
+    {
+      "_id": "M302",
+      "name": "Orbital Mechanics",
+      "description": "Understanding orbital dynamics and mission planning.",
+      "course": "RS103",
+      "lessons":[
+        {
+        "name": "Orbital Mechanics",
+        "description": "Understanding orbital dynamics and mission planning."
+        },
+        {
+        "name": "Orbital Mechanics Applications",
+        "description": "Applications of orbital dynamics and mission planning."
+        },
+        {
+        "name": "Orbital Mechanics History",
+        "description": "History of orbital dynamics and mission planning."
+        }
+      ]
+    },
+    {
+      "_id": "M303",
+      "name": "Spacecraft Systems Engineering",
+      "description": "Overview of spacecraft systems and subsystems engineering.",
+      "course": "RS103",
+      "lessons":[
+        {
+        "name": "Spacecraft Systems Engineering",
+        "description": "Overview of spacecraft systems and subsystems engineering."
+        },
+        {
+        "name": "Spacecraft Systems Engineering Applications",
+        "description": "Applications of spacecraft systems and subsystems engineering."
+        },
+        {
+        "name": "Spacecraft Systems Engineering History",
+        "description": "History of spacecraft systems and subsystems engineering."
+        }
+      ]
+    }
+  ]
