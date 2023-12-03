@@ -11,7 +11,7 @@ import session from "express-session";
 import "dotenv/config";
 // const CONNECTION_STRING = "mongodb+srv://giuseppi:supersecretpassword@cluster0.p7nv51b.mongodb.net/?retryWrites=true&w=majority";
 const CONNECTION_STRING = process.env.DB_CONNECTION_STRING;
-mongoose.connect(CONNECTION_STRING);
+mongoose.connect("mongodb+srv://giuseppi:supersecretpassword@cluster0.p7nv51b.mongodb.net/?retryWrites=true&w=majority");
 const app = express()
 app.use(cors(
     {
