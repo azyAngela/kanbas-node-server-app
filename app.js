@@ -18,7 +18,7 @@ app.use(cors(
         credentials: true,
         // origin: "http://localhost:3000",
         // origin: process.env.FRONTEND_URL,
-        origin: 'https://a6--celadon-cocada-27f202.netlify.app/',
+        origin: 'https://a6--celadon-cocada-27f202.netlify.app',
     }
 ));
 // const sessionOptions = {
